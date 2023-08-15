@@ -4,7 +4,7 @@ import { within, userEvent } from "@storybook/testing-library"; //needed for pla
 
 import { expect } from "@storybook/jest";
 
-import Component from "../components/FilterableProductTable";
+import Component from "./FilterableProductTable";
 
 export default {
   title: "FilterableProductTable",
